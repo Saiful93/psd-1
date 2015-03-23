@@ -1,0 +1,155 @@
+body {
+	background-color:#1B2234;
+}
+#wrapper {
+	width: 950px;
+	margin: 0 auto;
+	padding: 5px;
+}
+.header {
+	width: 960px;
+	overflow: hidden;
+}
+.header_text {
+	float: left;
+}
+.header_text h2 {
+	color: #7e96ba;
+	font-size: 70px;
+	line-height: 20px;
+}
+
+.header_text span {
+	color: #aaa;
+	font-size: 20px;
+	padding-left: 152px;
+}
+.search_box {
+	float: right;
+	padding-top: 60px;
+}
+
+.search_box input {
+	width: 150px;
+	height: 21px;
+	border-radius: 5px 0 0 5px;
+	margin-right: -3px;
+}
+.search_box button {
+	height: 28px;
+	padding: 2px 10px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+	background-color: #64cde1;
+	border-radius: 0 5px 5px 0;
+	border-color: #64cde1;
+}
+
+.content {
+	overflow: hidden;
+	background: -webkit-linear-gradient(#e3e3e3, #9fbcc2); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(#e3e3e3, #9fbcc2); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#e3e3e3, #9fbcc2); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#e3e3e3, #9fbcc2); /* Standard syntax */
+  	top: -4px;
+  	position: relative;
+}
+
+.icon {
+	overflow: hidden;
+}
+.icon section {
+	float: left;
+}
+.icon section img {
+	width: 158px;
+	height: 120px;
+}
+.icon section:nth-child(6) {
+	padding-right: 0;
+}
+ .top_content  {
+ 	overflow: hidden;
+ }
+ .headline {
+ 	overflow: hidden;
+ }
+ .headline h3 {
+ 	float: left;
+ 	padding-right: 207px;
+ 	padding-left: 10px;
+ }
+
+ .top_content_left {
+ 	width: 450px;
+ 	overflow: hidden;
+ 	float: left;
+ 	padding: 10px;
+ }
+  .top_content_right {
+ 	width: 450px;
+ 	overflow: hidden;
+ }
+ .top_content_right img {
+ 	float: left;
+ 	padding-right: 20px;
+ 	padding-top: 20px;
+ }
+
+ .middle_content {
+ 	overflow: hidden;
+ }
+ .middle_content section {
+ 	width: 450px;
+ 	float: left;
+ }
+ .small_icon_left {
+ 	overflow: hidden;
+ 	float: left;
+ 	padding-left: 10px;
+ }
+ .small_icon_left img {
+ 	float: left;
+ 	padding-right: 10px;
+ }
+ .small_icon_right {
+ 	overflow: hidden;
+ 	float: left;
+ 	padding-left: 10px;
+ }
+ .small_icon_right img {
+ 	float: left;
+ 	padding-right: 10px;
+ }
+ .left_section img {
+ 	float: left;
+ 	padding-right: 10px;
+ 	padding-top: 18px;
+ }
+
+ .bottom_content {
+ 	overflow: hidden;
+ }
+ .big_image {
+ 	padding: 10px;
+ }
+ .big_image img {
+ 	padding-right: 44px;
+ }
+ .big_image img:nth-child(4) {
+
+ 	padding-right: 0;
+ }
+ .footer {
+ 	color: #aaa;
+ 	text-align: right;
+ 	padding-top: 20px;
+ }
+ .footer hr {
+ 	border-color: #1a2130;
+ }
+ .footer span {
+ 	color: #1488ee;
+ }
+
+
